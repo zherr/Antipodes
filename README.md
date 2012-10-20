@@ -1,8 +1,8 @@
-<br>Antipodes
-Zachary Herr
-10/21/12
-Android 2 - Using Location
-Dr. Honig</br>
+<br>Antipodes</br>
+<br>Zachary Herr</br>
+<br>10/21/12</br>
+<br>Android 2 - Using Location</br>
+<br>Dr. Honig</br>
 
 This project was made using Android's 'LocationActivity' example, 
 demonstrating the use of location by GPS and data networks. 
