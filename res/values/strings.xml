@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Antipodes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Antipodes</string>
+    <color name="black">#FFFF</color>
+    <string name="textViewHereText"/>
+    <string name="textViewOppositeText"/>
+    <string name="buttonFineText">Push for Fine Antipode</string>
+    <string name="buttonRoughText">Push for Rough Antipode</string>
+    <string name="unknown">--Unknown--</string>
+    <drawable name="button_active">#7CFC00</drawable>
+    <drawable name="button_inactive">#8B0000</drawable>
+    <string name="not_support_gps">Sorry, GPS not supported</string>
+    <string name="not_support_network">Sorry, network not on</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="enable_gps_dialog">GPS provider not enabled. Would you like to enable it?</string>
+
+</resources>

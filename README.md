@@ -3,7 +3,6 @@ Zachary Herr
 10/21/12
 Android 2 - Using Location
 Dr. Honig
-=========
 
 This project was made using Android's 'LocationActivity' example, 
 demonstrating the use of location by GPS and data networks. 
